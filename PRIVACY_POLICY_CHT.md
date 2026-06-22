@@ -14,7 +14,7 @@ The words of which the initial letter is capitalized have meanings defined under
 ### Definitions
 For the purposes of this Privacy Policy:
 * **Account** means a unique account created for You to access our Service or parts of our Service.
-* **App** refers to Canadian Heritage Trivia.
+* **App** refers to Heritage Trivia.
 * **Business**, for the purpose of the CCPA (California Consumer Privacy Act), refers to the Company as the legal entity that collects Consumers' personal information and determines the purposes and means of the processing of Consumers' personal information.
 * **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Babafish Games Inc., Greater Vancouver, BC, Canada. For the purpose of the GDPR, the Company is the Data Controller.
 * **Consumer**, for the purpose of the CCPA, means a natural person who is a California resident.
